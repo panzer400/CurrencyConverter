@@ -1,9 +1,7 @@
 # CurrencyConverter
-Converts one currency to another using webservicex
+Converts one currency to another using webservicex (http://www.webservicex.net/ws/WSDetails.aspx?CATID=2&WSID=10)
 
 - Added soap4r-ruby1.9 Gem from - https://rubygems.org/gems/soap4r-ruby1.9/versions/2.0.5
-
-Instructions:
 
 Instructions:
 
